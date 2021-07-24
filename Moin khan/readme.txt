@@ -1,13 +1,9 @@
 =====================================================================================
 
 DESCRIPTION:
-
-HOWDY is a modern, minimal and well crafted responsive template designed for 
-creatives and freelancers. The template can be used as a vCard/resume template and 
-for showcasing your works. Howdy is mobile and retina ready which means your site 
-will look great, crisp and sharp on any screen resolutions and devices. Howdy is built 
-on clean and organized code which makes it easy to customize.
-
+Moin Khan-Portfolio web is my personal portfolio to show case my projects done in my engineering period 
+i am also into web development feel free to see my work and feel free to see my website to contact me for work relate as i am also available for freelance work
+Thanks.
 --------------------------------------------------------------------------------------
 
 SOURCES AND CREDITS:
